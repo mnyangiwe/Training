@@ -1,0 +1,14 @@
+{
+    "samplepagetest":"https://www.globalsqa.com/samplepagetest/",
+    "selectDropdownMenu":"https://www.globalsqa.com/demo-site/select-dropdown-menu/",
+    "profilePic":"C:/Training/CSharp/Automator/POM/Data/images.png",
+    "name":"Mpumelelo",
+    "email":"mpumelelo@testing.co.za",
+    "webSite":"https://www.globalsqa.com/s",
+    "yearsOfExperience":"3-5",
+    "skills":["Functional Testing","Automation Testing","Manual Testing"],
+    "qualification":"Graduate",
+    "comment":"This is the assessment used to assess technical skill of a person.",
+    "images":["High Tatras","High Tatras 4"],
+    "countryName":"Anguilla"
+}
